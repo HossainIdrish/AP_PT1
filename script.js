@@ -14,10 +14,10 @@ var geojsonFeature1 = {
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5, 
+        "fill-opacity": 0.6, 
         "name": "Missouri History Museum"
       },
       "geometry": {
